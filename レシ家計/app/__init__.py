@@ -1,0 +1,2 @@
+"""Receipt recognition bookkeeping backend."""
+
